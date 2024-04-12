@@ -11,7 +11,6 @@ This is a website project for a vacation house built using Next.js. The website 
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation
 
